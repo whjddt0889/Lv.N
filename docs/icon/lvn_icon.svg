@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108"><defs><linearGradient id="ga" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#151A22"/><stop offset="1" stop-color="#07090C"/></linearGradient><linearGradient id="ba" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#0077C8"/><stop offset="1" stop-color="#00C2F0"/></linearGradient></defs>
+<rect width="108" height="108" fill="url(#ga)"/>
+<text x="26" y="36" font-family="Arial Black,Arial" font-weight="900" font-style="italic" font-size="13" fill="#8A96A8">Lv.</text>
+<path d="M30 80 L40 40 L50 40 L60 64 L66 40 L76 40 L66 80 L56 80 L46 56 L40 80Z" fill="#E4002B" transform="translate(-3 3)"/><path d="M30 80 L40 40 L50 40 L60 64 L66 40 L76 40 L66 80 L56 80 L46 56 L40 80Z" fill="url(#ba)"/>
+<polygon points="26.0,90.0 31.0,90.0 29.0,93 24.0,93" fill="#2A3442"/>
+<polygon points="33.2,89.1 38.2,89.1 36.2,93 31.2,93" fill="#2F4D66"/>
+<polygon points="40.4,88.2 45.4,88.2 43.4,93 38.4,93" fill="#0F6FA8"/>
+<polygon points="47.6,87.3 52.6,87.3 50.6,93 45.6,93" fill="#0094D4"/>
+<polygon points="54.8,86.4 59.8,86.4 57.8,93 52.8,93" fill="#00B3E3"/>
+<polygon points="62.0,85.5 67.0,85.5 65.0,93 60.0,93" fill="#38C9F0"/>
+<polygon points="69.2,84.6 74.2,84.6 72.2,93 67.2,93" fill="#FF3B4E"/>
+<polygon points="76.4,83.7 81.4,83.7 79.4,93 74.4,93" fill="#E4002B"/>
+</svg>
